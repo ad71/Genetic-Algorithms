@@ -1,0 +1,1 @@
+The folder Genetic Algo will not show on Github because it was already a repo when it was first committed but its original repo has been deleted since. It is not on Github and I am too lazy to add it. (I wouldn't even if I wasn't lazy)
