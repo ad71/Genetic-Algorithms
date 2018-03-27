@@ -29,3 +29,5 @@ The use of some of these variables will be apparent only after looking at the so
 A modified genetic algorithm is used to optimize  over the DNA sequence in order to find the set of parameters that allow a car to achieve the lowest track time. The lowest time recorded yet was about 16 seconds.
 
 ![title](https://github.com/ad71/Genetic-Algorithms/blob/master/Car%20AI/ss.jpg)
+![title](https://github.com/ad71/Genetic-Algorithms/blob/master/Car%20AI/ss_1.jpg)
+![title](https://github.com/ad71/Genetic-Algorithms/blob/master/Car%20AI/ss_2.jpg)
