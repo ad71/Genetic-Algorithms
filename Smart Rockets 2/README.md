@@ -9,4 +9,6 @@ Each rocket consists of an origin vertex, where all the forces are applied. An a
 Each rocket lives for 400 frames and hence the DNA consists of 400 vectors, one for each frame. The corresponding vector is applied as a force to the rocket at each frame.
 
 ### Algorithm
-The DNA sequences thus obtained are subjected to optimization using a genetic algorithm in order to create an array of vectors (the physics vectors) that would lead the rocket to the target circle at the top of the screen..
+The DNA sequences thus obtained are subjected to optimization using a genetic algorithm in order to create an array of vectors (the physics vectors) that would lead the rocket to the target circle at the top of the screen.
+
+![title](ss.jpg)
