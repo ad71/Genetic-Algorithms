@@ -1,6 +1,6 @@
 # Smart Rockets
 ---
-This program demonstrates how a population of `rockets` can be taught to meander around an obstacle using genetic algorithms.
+This program demonstrates how a population of `rockets` can be taught to meander around an obstacle using genetic algorithms. Is it deployed [here](https://smart-rockets.firebaseapp.com/)
 
 ### How rockets are built
 Each rocket consists of an origin vertex, where all the forces are applied. An arrow-like shape is drawn around this origin, to resemble a rocket.
