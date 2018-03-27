@@ -26,7 +26,7 @@ If a car is stationary for 300 frames, it will be discarded automatically.
 ![title](boxCar2D/ss_3.jpg)
 
 ## Smart Rockets
----
+
 This program demonstrates how a population of `rockets` can be taught to meander around an obstacle using genetic algorithms. Is it deployed [here](https://smart-rockets.firebaseapp.com/)
 
 ### How rockets are built
@@ -41,7 +41,7 @@ The DNA sequences thus obtained are subjected to optimization using a genetic al
 ![title]("Smart Rockets 2/ss.jpg")
 
 ## Steering Behaviors
----
+
 This program is a variation of the Smart Rockets example where the rockets are left in an [agar.io](www.agar.io) like environment where each rocket tries to survive by eating green pellets (+health) and avoiding the red ones (-health). Health decreases every frame by a small amount. The rocket with the perfect balance of speed, visibility range and steer torque survives the longest. It is deployed [here](https://steering-behaviors.firebaseapp.com/)
 
 ### How rockets are built
