@@ -17,3 +17,8 @@ Each car has a DNA sequence which is optimized over using a Genetic Algorithm. E
 ### Appendix
 Clicking discards the current genome. This can be useful to manually set up the first generation. If the first generation is manually set up, the algorithm will converge sooner.
 If a car is stationary for 300 frames, it will be discarded automatically.
+
+![title](ss.jpg)
+![title](ss_1.jpg)
+![title](ss_2.jpg)
+![title](ss_3.jpg)
