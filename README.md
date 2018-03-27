@@ -38,7 +38,7 @@ Each rocket lives for 400 frames and hence the DNA consists of 400 vectors, one 
 ### Algorithm
 The DNA sequences thus obtained are subjected to optimization using a genetic algorithm in order to create an array of vectors (the physics vectors) that would lead the rocket to the target circle at the top of the screen.
 
-![title]("Smart Rockets 2/ss.jpg")
+![title](https://github.com/ad71/Genetic-Algorithms/blob/master/Smart%20Rockets%202/ss.jpg)
 
 ## Steering Behaviors
 
@@ -56,5 +56,5 @@ The movement of the rockets is based on Craig Reynolds' work on steering behavio
 ### Algorithm
 The DNA sequences obtained are subjected to optimization using a genetic algorithm in order to find the set of parameters that enable a particular rocket to survive the longest. The genetic algorithm in this example is an example of mitosis, ie, recombination doesn't require two parents, instead, if an individual survives for long, it generated two copies of itself, one with a mutation rate of 1% and another with a mutation rate of 50%. This helps prevent convergence into local optima.
 
-![title]("Steering Behaviors/ss.jpg")
-![title]("Steering Behaviors/ss_1.jpg")
+![title](https://github.com/ad71/Genetic-Algorithms/blob/master/Steering%20Behaviors/ss.jpg)
+![title](https://github.com/ad71/Genetic-Algorithms/blob/master/Steering%20Behaviors/ss_1.jpg)
