@@ -13,3 +13,6 @@ The movement of the rockets is based on Craig Reynolds' work on steering behavio
 
 ### Algorithm
 The DNA sequences obtained are subjected to optimization using a genetic algorithm in order to find the set of parameters that enable a particular rocket to survive the longest. The genetic algorithm in this example is an example of mitosis, ie, recombination doesn't require two parents, instead, if an individual survives for long, it generated two copies of itself, one with a mutation rate of 1% and another with a mutation rate of 50%. This helps prevent convergence into local optima.
+
+![title](ss.jpg)
+![title](ss_1.jpg)
